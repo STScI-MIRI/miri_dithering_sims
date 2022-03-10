@@ -46,3 +46,9 @@ Notebooks
   on a SkyCube created using the previous notebook.  Main change is the dither
   pattern.  A number available in mirisim_dithers subdirectory created with
   the above instructions.
+
+- Sims notebooks: Each subdirectory in the Sims directory has a notebook for
+  running the simulated data through the full imaging pipeline.  For this to
+  work, the detectory images from the simulation directory must be copied into
+  a subdirectory called stage0.  In addition, subdirectories stage1, stage2,
+  and stage3 need to be created.

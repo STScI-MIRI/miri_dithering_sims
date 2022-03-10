@@ -1,0 +1,71 @@
+# APT Output Product
+# 
+# APT Version: Version 2022.1.1  
+# Date: Thu Mar 10 21:53:34 GMT 2022
+
+JWST Pointing Report for JWST Draft Proposal (cartwheel.aptx)
+
+========================================
+* Cartwheel NIRCam Imaging (Obs 2)
+** Visit 2:1
+Tar Tile Exp Dith Aperture Name             Target       RA         Dec        BaseX    BaseY    DithX    DithY    V2       V3       IdlX     IdlY   Level      Type      ExPar  DkPar   dDist          
+  1    1   1    1 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -2.900   -3.100  -79.222 -499.140   -2.900   -3.100 TARGET     SCIENCE      403   3431  0.000 (base)
+  1    1   1    2 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -3.100   +2.900  -79.019 -493.140   -3.100   +2.900 DITHER     SCIENCE      372      0  6.003          
+  1    1   1    3 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   +2.900   +3.100  -85.019 -492.937   +2.900   +3.100 DITHER     SCIENCE      372      0  6.003          
+  1    1   1    4 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   +3.100   -2.900  -85.222 -498.937   +3.100   -2.900 DITHER     SCIENCE      372      0  6.003          
+  1    1   1    5 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   +3.300   -8.900  -85.425 -504.937   +3.300   -8.900 DITHER     SCIENCE      372      0  6.003          
+  1    1   1    6 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -2.700   -9.100  -79.426 -505.140   -2.700   -9.100 DITHER     SCIENCE      372      0  6.003          
+  1    1   1    7 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -8.700   -9.300  -73.426 -505.343   -8.700   -9.300 DITHER     SCIENCE      372      0  6.003          
+  1    1   1    8 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -8.900   -3.300  -73.222 -499.343   -8.900   -3.300 DITHER     SCIENCE      372      0  6.003          
+  1    1   2    1 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -2.900   -3.100  -79.222 -499.140   -2.900   -3.100 FILTER     SCIENCE      403   3431  6.003          
+  1    1   2    2 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -3.100   +2.900  -79.019 -493.140   -3.100   +2.900 DITHER     SCIENCE      372      0  6.003          
+  1    1   2    3 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   +2.900   +3.100  -85.019 -492.937   +2.900   +3.100 DITHER     SCIENCE      372      0  6.003          
+  1    1   2    4 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   +3.100   -2.900  -85.222 -498.937   +3.100   -2.900 DITHER     SCIENCE      372      0  6.003          
+  1    1   2    5 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   +3.300   -8.900  -85.425 -504.937   +3.300   -8.900 DITHER     SCIENCE      372      0  6.003          
+  1    1   2    6 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -2.700   -9.100  -79.426 -505.140   -2.700   -9.100 DITHER     SCIENCE      372      0  6.003          
+  1    1   2    7 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -8.700   -9.300  -73.426 -505.343   -8.700   -9.300 DITHER     SCIENCE      372      0  6.003          
+  1    1   2    8 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -8.900   -3.300  -73.222 -499.343   -8.900   -3.300 DITHER     SCIENCE      372      0  6.003          
+  1    1   3    1 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -2.900   -3.100  -79.222 -499.140   -2.900   -3.100 FILTER     SCIENCE      403   3431  6.003          
+  1    1   3    2 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -3.100   +2.900  -79.019 -493.140   -3.100   +2.900 DITHER     SCIENCE      372      0  6.003          
+  1    1   3    3 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   +2.900   +3.100  -85.019 -492.937   +2.900   +3.100 DITHER     SCIENCE      372      0  6.003          
+  1    1   3    4 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   +3.100   -2.900  -85.222 -498.937   +3.100   -2.900 DITHER     SCIENCE      372      0  6.003          
+  1    1   3    5 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   +3.300   -8.900  -85.425 -504.937   +3.300   -8.900 DITHER     SCIENCE      372      0  6.003          
+  1    1   3    6 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -2.700   -9.100  -79.426 -505.140   -2.700   -9.100 DITHER     SCIENCE      372      0  6.003          
+  1    1   3    7 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -8.700   -9.300  -73.426 -505.343   -8.700   -9.300 DITHER     SCIENCE      372      0  6.003          
+  1    1   3    8 NRCBS_FULL                62 NAME-CA   +9.42458  -33.71041   +0.000   +0.000   -8.900   -3.300  -73.222 -499.343   -8.900   -3.300 DITHER     SCIENCE      372      0  6.003          
+
+========================================
+* Cartwheel MIRI Imaging (Obs 1)
+** Visit 1:1
+Tar Tile Exp Dith Aperture Name             Target       RA         Dec        BaseX    BaseY    DithX    DithY    V2       V3       IdlX     IdlY   Level      Type      ExPar  DkPar   dDist          
+  1    1   1    1 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  -31.256   -4.155 -417.834 -388.428  -36.830  -11.551 TARGET     SCIENCE      297   2731  0.000 (base)
+  1    1   1    2 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  -28.562   +0.393 -420.134 -383.670  -34.136   -7.003 DITHER     SCIENCE      287      0  5.286          
+  1    1   1    3 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  -26.989   +9.114 -420.967 -374.847  -32.564   +1.718 DITHER     SCIENCE      287      0  8.862          
+  1    1   1    4 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  -21.631   +6.858 -426.496 -376.643  -27.206   -0.537 DITHER     SCIENCE      287      0  5.813          
+  1    1   1    5 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  -21.746   -6.539 -427.510 -390.003  -27.320  -13.935 DITHER     SCIENCE      287      0 13.398          
+  1    1   1    6 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  -38.050   -3.236 -410.985 -388.085  -43.625  -10.632 DITHER     SCIENCE      287      0 16.636          
+  1    1   1    7 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  -40.651   +0.946 -408.042 -384.137  -46.225   -6.450 DITHER     SCIENCE      287      0  4.925          
+  1    1   1    8 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  -27.139   +4.334 -421.220 -379.623  -32.713   -3.062 DITHER     SCIENCE      287      0 13.930          
+** Visit 1:2
+Tar Tile Exp Dith Aperture Name             Target       RA         Dec        BaseX    BaseY    DithX    DithY    V2       V3       IdlX     IdlY   Level      Type      ExPar  DkPar   dDist          
+  1    2   1    1 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  +27.963   -3.839 -476.815 -383.122  +22.389  -11.234 TILE       SCIENCE      297   2731  0.000 (base)
+  1    2   1    2 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  +30.657   +0.709 -479.116 -378.364  +25.082   -6.687 DITHER     SCIENCE      287      0  5.286          
+  1    2   1    3 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  +32.229   +9.430 -479.948 -369.541  +26.655   +2.034 DITHER     SCIENCE      287      0  8.862          
+  1    2   1    4 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  +37.587   +7.175 -485.477 -371.337  +32.013   -0.221 DITHER     SCIENCE      287      0  5.813          
+  1    2   1    5 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  +37.473   -6.223 -486.492 -384.697  +31.898  -13.619 DITHER     SCIENCE      287      0 13.398          
+  1    2   1    6 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  +21.168   -2.919 -469.967 -382.779  +15.594  -10.315 DITHER     SCIENCE      287      0 16.636          
+  1    2   1    7 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  +18.568   +1.263 -467.023 -378.831  +12.994   -6.133 DITHER     SCIENCE      287      0  4.925          
+  1    2   1    8 MIRIM_ILLUM               62 NAME-CA   +9.42458  -33.71041   -5.574   -7.396  +32.080   +4.650 -480.202 -374.317  +26.505   -2.746 DITHER     SCIENCE      287      0 13.930          
+
+========================================
+* Cartwheel NIRSpec IFU (Obs 6)
+** Visit 6:1
+Tar Tile Exp Dith Aperture Name             Target       RA         Dec        BaseX    BaseY    DithX    DithY    V2       V3       IdlX     IdlY   Level      Type      ExPar  DkPar   dDist          
+  1    1   1    1 NRS_FULL_IFU              63 NAME-CA   +9.42125  -33.71627   +0.000   +0.000   -0.625   -0.475 +299.367 -498.178   -0.625   -0.475 TARGET     SCIENCE      378   2571  0.000 (base)
+  1    1   1    2 NRS_FULL_IFU              63 NAME-CA   +9.42125  -33.71627   +0.000   +0.000   +0.525   +0.575 +300.924 -498.213   +0.525   +0.575 DITHER     SCIENCE      378      0  1.557          
+  1    1   1    3 NRS_FULL_IFU              63 NAME-CA   +9.42125  -33.71627   +0.000   +0.000   +0.375   -0.525 +300.088 -497.483   +0.375   -0.525 DITHER     SCIENCE      378      0  1.110          
+  1    1   1    4 NRS_FULL_IFU              63 NAME-CA   +9.42125  -33.71627   +0.000   +0.000   -0.475   +0.625 +300.203 -498.908   -0.475   +0.625 DITHER     SCIENCE      378      0  1.430          
+  1    1   1    5 NRS_FULL_IFU              63 NAME-CA   +9.42125  -33.71627   +0.000   +0.000   +0.000   +0.000 +300.150 -498.125   +0.000   +0.000 DITHER     SCIENCE      378      0  0.785          
+  1    1   1    6 NRS_FULL_IFU              63 NAME-CA   +9.42125  -33.71627   +0.000   +0.000   -0.550   +0.050 +299.769 -498.524   -0.550   +0.050 DITHER     SCIENCE      378      0  0.552          
+
+
