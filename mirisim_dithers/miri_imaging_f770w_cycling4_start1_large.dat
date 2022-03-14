@@ -1,0 +1,26 @@
+# The following reference pixels are hard-coded for use: 
+# Imaging: 692.5, 511.5 
+# LRS Slit: 325.13, 299.7 
+# LRS Slitless: 37.5, 300.0 
+# BRIGHTSKY: 711.5, 305.5 
+# SUB256: 539.5, 177.5 
+# SUB128: 69.5, 951.5 
+# SUB64: 37.5, 809.5 
+
+## APT Output Product
+##
+## APT Version: Version 2022.1.1
+## Date: Thu Mar 10 21:54:27 GMT 2022
+#
+#JWST Pointing Report for JWST Draft Proposal (Unsaved)
+#
+#========================================
+#* Observation 1
+#** Visit 1:1
+-15.00, -36.01
+9.50, 4.99
+24.00, 83.48
+72.51, 63.49
+#
+#
+#
